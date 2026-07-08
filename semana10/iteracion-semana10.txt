@@ -1,0 +1,11 @@
+Tareas del backlog que haría primero:
+1. Registrar una incidencia.
+2. Recibir alerta en Telegram.
+
+Razón:
+Son las más importantes porque permiten iniciar el flujo de participación ciudadana y garantizar que los reportes sean atendidos rápidamente.
+
+Definición de terminado:
+- Funciona correctamente.
+- Fue probada con un caso de ejemplo.
+- Está registrada en GitHub.

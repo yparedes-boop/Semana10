@@ -1,0 +1,10 @@
+Las metodologías ágiles ayudan a organizar el trabajo en pequeñas 
+entregas que permiten avanzar paso a paso y corregir rápidamente.
+Un backlog priorizado da claridad sobre qué tareas son más urgentes
+y evita perder tiempo en actividades secundarias.
+La automatización con herramientas como n8n reduce tareas repetitivas
+y asegura que la información fluya sin depender de una sola persona.
+Telegram se convierte en un canal de coordinación comunitaria, donde 
+los avisos llegan de manera inmediata y accesible.
+Esto fortalece la participación ciudadana porque las personas pueden 
+interactuar y recibir notificaciones en tiempo real.
